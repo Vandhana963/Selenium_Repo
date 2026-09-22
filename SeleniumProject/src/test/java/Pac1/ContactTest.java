@@ -29,7 +29,7 @@ public class ContactTest
 	@Test
 	public void deleteContactTest()
 	{
-		System.out.println("execute modifyContactTest");
+		System.out.println("execute deleteContactTest");
 	}
 
 }
