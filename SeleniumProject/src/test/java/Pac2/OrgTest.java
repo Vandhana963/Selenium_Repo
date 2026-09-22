@@ -8,7 +8,7 @@ public class OrgTest
 	public void createOrgTest()
 	{
 		String URL=System.getProperty("url");
-		String BROWSER=System.getProperty("username");
+		String BROWSER=System.getProperty("browser");
 		String USERNAME=System.getProperty("username");
 		String PASSWORD=System.getProperty("password");
 		
